@@ -1,3 +1,29 @@
+## Projecto Trivia // Trivia Project
+
+Esse projeto foi desenvolvido durante o estudo na Trybe, que foi usado o React, com Hooks como base // This project was developed during the study at Trybe, which used React, with Hooks as a base
+
+### Como usar // How to use
+
+Ao realizar o clone do proje em sua máquina, será necessário iniciar com [npm install], após usar o [npm start] no terminal onde irá subir localmente na porta 3000
+
+When cloning the project on your machine, you need to start with [npm install], after using [npm start] in the terminal where it will locally upload on port 3000
+ 
+### Em funcionamento // In Operation
+
+Caso queria ver o projeto em funcionamento // If you would like to see the project in operation:
+
+https://trivia-caravana-dos-13.netlify.app/
+
+Obs.: Usei o netlify.app, para para realizar o deploy // I used netlify.app, to perform the deploy
+
+
+Caso queria ver como era o README.md original, segue a baixo // If you want to see what the original README.md looked like, below:
+
+---
+---
+---
+---
+
 ### Termos de acordo
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
