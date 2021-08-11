@@ -1,4 +1,4 @@
-## Projecto Trivia // Trivia Project
+## Projeto Trivia // Trivia Project
 
 Esse projeto foi desenvolvido durante o estudo na Trybe, que foi usado o React, com Hooks como base // This project was developed during the study at Trybe, which used React, with Hooks as a base
 
